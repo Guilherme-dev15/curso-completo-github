@@ -1,3 +1,4 @@
 # curso-completo-github
+This is aa course about Git And GitHub
 
-Teste
+The version of this repository is V1.0
